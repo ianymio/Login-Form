@@ -5,7 +5,6 @@ Proyek ini berisi aplikasi formulir login berbasis Desktop menggunakan Windows F
 ## 📌 Fitur Aplikasi
 * Tampilan Halaman Utama / Welcome Screen.
 * Formulir Login Pengguna.
-* Tombol Navigasi ke Halaman Pendaftaran Akun Baru.
 
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa Pemrograman:** C# 
